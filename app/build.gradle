@@ -33,4 +33,5 @@ dependencies {
     })
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     compile "com.android.support:support-emoji-bundled:26.1.0"
+    compile 'org.apache.commons:commons-lang3:3.5'
 }
